@@ -33,7 +33,7 @@ function App() {
     if (timeLeft === 0) return "⏰";
     if (timeLeft <= 60) return "😰";
     if (timeLeft <= 180) return "🤔";
-    return "😊";
+    return "🦈";
   };
 
   return (
